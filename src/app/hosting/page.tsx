@@ -1,1 +1,1 @@
-"export default function Page() {return<h1>Hosting</h1> }" 
+export default function Page() {return<h1>Hosting</h1> }
